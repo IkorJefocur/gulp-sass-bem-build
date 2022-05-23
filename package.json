@@ -1,0 +1,12 @@
+{
+  "name": "gulp-sassy-bem-build",
+  "version": "0.1.0",
+  "description": "Gulp plugin for sass-bem build system",
+  "main": "index.js",
+  "author": "Ikor Jefocur",
+  "license": "ISC",
+  "dependencies": {
+    "node-eval": "^2.0.0",
+    "sassy-bem": "^0.1.0"
+  }
+}
